@@ -12,7 +12,7 @@
 
 ### 🧑‍🤝‍🧑 개발자
 
-- [김연아] - 프로젝트 설계, 데이터베이스 구축, 기능 구현, 통합 관리
+- 김연아 - 프로젝트 설계, 데이터베이스 구축, 기능 구현, 통합 관리
 
 ### ⚙️ 개발 환경
 
@@ -50,6 +50,8 @@
 #### 5. ERD
 
 <img src="https://github.com/KimYeonA1/subjectMVCProject/blob/main/Image/subjectMVCProject_erd.png" width = "800px" height = "450px">
+
+---
 
 ## 🧩 데이터베이스 스키마
 
